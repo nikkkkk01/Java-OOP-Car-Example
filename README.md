@@ -1,7 +1,7 @@
-# Java OOP Car Example 🚗
+# Laboratory 1: OOP in Java 🚗
 
-A simple Java program demonstrating **Object-Oriented Programming (OOP)** concepts using a `Car` class.  
-This project shows how to create objects, set their attributes, and call their methods.
+This is **Laboratory 1** for Object-Oriented Programming (OOP) in Java.  
+It demonstrates the basics of creating a class (`Car`), defining attributes, and using methods with objects.
 
 ## Features
 - Defines a `Car` class with:
